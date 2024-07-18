@@ -1,3 +1,4 @@
+#LOS CAMBIOS SON BUENOS EN ESTOS ARCHIVOS
 import pandas as pd
 import numpy as np
 
