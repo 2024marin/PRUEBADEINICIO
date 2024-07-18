@@ -1,4 +1,3 @@
-
 fruits = ('apple', 'orange', 'Grape', 'Lulo')
 
 #fruits2 = tuple('apple', 'orange', 'Grape', 'Lulo')
@@ -22,7 +21,8 @@ fruits_set.clear()
 del fruits2
 
 
-print(fruits2)
+print("fruits2")
+
 
 
 
